@@ -11,7 +11,7 @@ body {
 
 body > div {
     background-color: rgb(255, 251, 246);
-    padding: 2rem;
+    padding: 2rem 5rem;
     max-width: max-content;
     margin: 20vh auto;
     border-radius: 5px;
